@@ -9,12 +9,18 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-      - run: |
+          
+      - name: install python module
+        run: |
           pip install --upgrade pip
           pip install mdpo
-      - run: |
+          
+      - name: pofile change to mdfile
+        run: |
           po2md readme.md --pofiles readme.po --quiet --save readmekr.md
-      - run: |
+          
+      - name: push to main branch
+        run: |
           git add .
           git diff
           git config --local user.email "yeoyundong@gmail.com"
