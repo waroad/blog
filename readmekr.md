@@ -28,7 +28,7 @@ Complies with <a href="https://spec.commonmark.org/">CommonMark Specification</a
 additional features.
 </p>
 
-## 상태요
+## 상태입니다
 
 [![Documentation status][doc-image]][doc-link]
 [![Tests][tests-image]][tests-link] [![Coverage
