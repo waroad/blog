@@ -1,0 +1,65 @@
+#
+msgid ""
+msgstr ""
+
+#: mdporeadme.md:block 2 (paragraph)
+msgid "<h4 align=\"center\">Markdown files translation using PO files</h4>"
+msgstr ""
+
+#: mdporeadme.md:block 6 (header)
+msgid "Status"
+msgstr "상태"
+
+#: mdporeadme.md:block 7 (paragraph)
+msgid ""
+"[![Documentation status][doc-image]][doc-link] [![Tests][tests-"
+"image]][tests-link] [![Coverage status][coverage-image]][coverage-link]"
+msgstr ""
+
+#: mdporeadme.md:block 8 (header)
+msgid "Installation"
+msgstr "설치"
+
+#: mdporeadme.md:block 9 (code)
+#, fuzzy
+msgid ""
+"[tests-image]: "
+"https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?logo=github&label=tests"
+msgstr ""
+"[tests-image]: "
+"https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?logo=github&label=tests"
+
+#: mdporeadme.md:block 9 (code)
+#, fuzzy
+msgid ""
+"[tests-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ATest"
+msgstr ""
+"[tests-link]: https://github.com/mondeja/mdpo/actions?query=workflow%3ATest"
+
+#: mdporeadme.md:block 9 (code)
+#, fuzzy
+msgid ""
+"[coverage-image]: "
+"https://img.shields.io/coveralls/github/mondeja/mdpo?logo=coveralls"
+msgstr ""
+"[coverage-image]: "
+"https://img.shields.io/coveralls/github/mondeja/mdpo?logo=coveralls"
+
+#: mdporeadme.md:block 9 (code)
+#, fuzzy
+msgid "[coverage-link]: https://coveralls.io/github/mondeja/mdpo"
+msgstr "[coverage-link]: https://coveralls.io/github/mondeja/mdpo"
+
+#: mdporeadme.md:block 9 (code)
+#, fuzzy
+msgid ""
+"[doc-image]: "
+"https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?label=docs&logo=readthedocs&logoColor=white"
+msgstr ""
+"[doc-image]: "
+"https://img.shields.io/github/workflow/status/mondeja/mdpo/Test?label=docs&logo=readthedocs&logoColor=white"
+
+#: mdporeadme.md:block 9 (code)
+#, fuzzy
+msgid "[doc-link]: https://mondeja.github.io/mdpo/"
+msgstr "[doc-link]: https://mondeja.github.io/mdpo/"
