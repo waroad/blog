@@ -28,13 +28,13 @@ Complies with <a href="https://spec.commonmark.org/">CommonMark Specification</a
 additional features.
 </p>
 
-## 상태
+## 상태요
 
 [![Documentation status][doc-image]][doc-link]
 [![Tests][tests-image]][tests-link] [![Coverage
 status][coverage-image]][coverage-link]
 
-## 설치
+## 설치입니다
 
 ```bash
 pip install mdpo
