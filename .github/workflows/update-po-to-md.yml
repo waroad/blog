@@ -10,6 +10,7 @@ jobs:
         with:
           python-version: '3.10'
       - run:
+          pip install --upgrade pip
           pip install mdpo
       - run:
           po2md readme.md --pofiles readme.po --quiet --save readmekr.md
