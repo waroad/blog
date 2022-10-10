@@ -6,4 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: po2md readme.md --pofiles readme.po --quiet --save readmekr.md
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - run: python po2md readme.md --pofiles readme.po --quiet --save readmekr.md
