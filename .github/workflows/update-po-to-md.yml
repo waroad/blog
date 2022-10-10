@@ -1,10 +1,6 @@
 name: update-po-to-md
 
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+on: [push]
 jobs:
   update-po-to-md:
     runs-on: ubuntu-latest
