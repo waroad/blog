@@ -17,7 +17,5 @@ jobs:
       - run: |
           git add .
           git diff
-          git config --local user.email "yeoyundong@gmail.com"
-          git config --local user.name "YYun-D"
-          git commit -m ":smiley: Update README.md file"
+          git commit -m "Update README.md file"
           git push
