@@ -8,7 +8,7 @@ msgstr ""
 
 #: mdporeadme.md:block 6 (header)
 msgid "Status"
-msgstr "상태"
+msgstr "상태요"
 
 #: mdporeadme.md:block 7 (paragraph)
 msgid ""
