@@ -8,7 +8,7 @@ msgstr ""
 
 #: mdporeadme.md:block 6 (header)
 msgid "Status"
-msgstr "상태입니다"
+msgstr "상태"
 
 #: mdporeadme.md:block 7 (paragraph)
 msgid ""
@@ -18,7 +18,7 @@ msgstr ""
 
 #: mdporeadme.md:block 8 (header)
 msgid "Installation"
-msgstr "설치입니다"
+msgstr "설치"
 
 #: mdporeadme.md:block 9 (code)
 #, fuzzy
